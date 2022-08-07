@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering & Cybersecurity
 - 🌱 I’m currently a CTP fellow in Web Development
 - 📫 How to reach me:
--           linkedin.com/in/VincenzoCammilleri
+-           linkedin.com/in/vincenzocammilleri
 -           cammilleriv2@gmail.com
 -           GitHub.com/VincenzoCammilleri2
 
